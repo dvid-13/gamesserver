@@ -1,4 +1,8 @@
 ## Para Mods
+
+```sh
+cd /home/steam/arkserver/ShooterGame/Content/Mods
+```
 ```sh
 chmod -R 775 537753733 543859212 558651608 924933745 1928871727 1974423293 1995303438 2020317130 2594067220
 ```
